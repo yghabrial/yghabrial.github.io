@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Youssef Ghabril and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and I am double majoring in Art and Computer Science.
+This is my home page! My name is Youssef Ghabrial and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and I am double majoring in Art and Computer Science.
 
 ## Computer Science Projects
 
